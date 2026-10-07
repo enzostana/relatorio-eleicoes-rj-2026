@@ -1,0 +1,163 @@
+﻿cargo;posicao_menor_margem;municipio;lider;margem_pp;diferenca_votos;trocas_diretas_minimas;votos_adicionais_minimos;comparecimento;fonte
+governador;1;Santa Maria Madalena;DOUGLAS RUAS;0.7224958950000016;44;23;45;7002;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58912-c0003-e006259-u.json
+governador;2;Duas Barras;DOUGLAS RUAS;3.200692042;222;112;223;8229;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58319-c0003-e006259-u.json
+governador;3;Barra do Piraí;DOUGLAS RUAS;4.480187614999998;2025;1013;2026;52804;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58050-c0003-e006259-u.json
+governador;4;Mendes;DOUGLAS RUAS;4.550724637999998;471;236;472;11878;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58556-c0003-e006259-u.json
+governador;5;Quissamã;DOUGLAS RUAS;5.054041710999996;664;333;665;15070;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58009-c0003-e006259-u.json
+governador;6;Piraí;DOUGLAS RUAS;6.291682395999999;1000;501;1001;18342;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58793-c0003-e006259-u.json
+governador;7;Duque de Caxias;DOUGLAS RUAS;6.809967790999998;30129;15065;30130;520376;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58335-c0003-e006259-u.json
+governador;8;Macuco;DOUGLAS RUAS;7.101691764000002;382;192;383;6062;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58386-c0003-e006259-u.json
+governador;9;Pinheiral;DOUGLAS RUAS;8.072167354000001;1038;520;1039;14774;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58246-c0003-e006259-u.json
+governador;10;Maricá;DOUGLAS RUAS;8.634635165000006;11081;5541;11082;144378;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58530-c0003-e006259-u.json
+governador;11;Natividade;DOUGLAS RUAS;9.107402032000003;753;377;754;9709;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58610-c0003-e006259-u.json
+governador;12;São Sebastião do Alto;DOUGLAS RUAS;10.267940789999997;548;275;549;6027;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59056-c0003-e006259-u.json
+governador;13;Volta Redonda;DOUGLAS RUAS;10.645345516999996;15844;7923;15845;172176;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59250-c0003-e006259-u.json
+governador;14;Paracambi;DOUGLAS RUAS;10.649874939;2427;1214;2428;26463;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58718-c0003-e006259-u.json
+governador;15;Macaé;DOUGLAS RUAS;10.919927569000002;13448;6725;13449;144037;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58475-c0003-e006259-u.json
+governador;16;Paraíba do Sul;DOUGLAS RUAS;11.294802275000002;2562;1282;2563;26691;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58734-c0003-e006259-u.json
+governador;17;Engenheiro Paulo de Frontin;DOUGLAS RUAS;11.692538808000002;934;468;935;9203;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58351-c0003-e006259-u.json
+governador;18;Vassouras;DOUGLAS RUAS;12.669937646999998;2479;1240;2480;23203;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59234-c0003-e006259-u.json
+governador;19;Trajano de Moraes;DOUGLAS RUAS;13.026581688;838;420;839;7465;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59170-c0003-e006259-u.json
+governador;20;Japeri;DOUGLAS RUAS;13.322384693000004;6733;3367;6734;59933;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58149-c0003-e006259-u.json
+governador;21;Quatis;DOUGLAS RUAS;13.410812221999997;1027;514;1028;8746;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58025-c0003-e006259-u.json
+governador;22;Magé;DOUGLAS RUAS;14.282403773000006;19106;9554;19107;155194;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58491-c0003-e006259-u.json
+governador;23;Seropédica;DOUGLAS RUAS;14.320090477999997;5951;2976;5952;47439;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58424-c0003-e006259-u.json
+governador;24;Petrópolis;DOUGLAS RUAS;14.738439798000002;22528;11265;22529;181425;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58777-c0003-e006259-u.json
+governador;25;Nilópolis;DOUGLAS RUAS;15.310656682999998;13679;6840;13680;100507;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58637-c0003-e006259-u.json
+governador;26;São João da Barra;DOUGLAS RUAS;15.437764944999998;4625;2313;4626;34890;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58998-c0003-e006259-u.json
+governador;27;Sapucaia;DOUGLAS RUAS;15.979525361;1717;859;1718;12568;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59072-c0003-e006259-u.json
+governador;28;São João de Meriti;DOUGLAS RUAS;16.297966857999995;38229;19115;38230;276721;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59013-c0003-e006259-u.json
+governador;29;Itaguaí;DOUGLAS RUAS;16.63072305;11413;5707;11414;78776;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58394-c0003-e006259-u.json
+governador;30;Arraial do Cabo;DOUGLAS RUAS;17.194092827;4238;2120;4239;27352;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59277-c0003-e006259-u.json
+governador;31;Queimados;DOUGLAS RUAS;17.419149949;13164;6583;13165;86922;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58122-c0003-e006259-u.json
+governador;32;Porto Real;DOUGLAS RUAS;17.628057221999995;2292;1147;2293;14828;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58327-c0003-e006259-u.json
+governador;33;Barra Mansa;DOUGLAS RUAS;18.343347543;16394;8198;16395;105116;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58076-c0003-e006259-u.json
+governador;34;Nova Friburgo;DOUGLAS RUAS;18.388062036;18804;9403;18805;120006;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58670-c0003-e006259-u.json
+governador;35;São Francisco de Itabapoana;DOUGLAS RUAS;18.414809629000004;4735;2368;4736;29551;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58289-c0003-e006259-u.json
+governador;36;Cordeiro;DOUGLAS RUAS;18.797364085999995;2282;1142;2283;14174;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58297-c0003-e006259-u.json
+governador;37;Campos dos Goytacazes;DOUGLAS RUAS;19.000351874;46438;23220;46439;290165;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58190-c0003-e006259-u.json
+governador;38;Miguel Pereira;DOUGLAS RUAS;19.004076879000003;3263;1632;3264;19231;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58572-c0003-e006259-u.json
+governador;39;Cantagalo;DOUGLAS RUAS;19.131771033;1992;997;1993;12210;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58211-c0003-e006259-u.json
+governador;40;Mesquita;DOUGLAS RUAS;19.771110358;18675;9338;18676;106260;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58467-c0003-e006259-u.json
+governador;41;Santo Antônio de Pádua;DOUGLAS RUAS;19.878178907999995;4471;2236;4472;25788;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58939-c0003-e006259-u.json
+governador;42;Cambuci;DOUGLAS RUAS;21.269487751;1910;956;1911;9936;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58173-c0003-e006259-u.json
+governador;43;Nova Iguaçu;DOUGLAS RUAS;21.628156904999997;87745;43873;87746;476955;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58696-c0003-e006259-u.json
+governador;44;Areal;DOUGLAS RUAS;22.971268395000003;1639;820;1640;8231;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58220-c0003-e006259-u.json
+governador;45;Itatiaia;DOUGLAS RUAS;23.033707865000004;4223;2112;4224;20766;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58440-c0003-e006259-u.json
+governador;46;Belford Roxo;DOUGLAS RUAS;23.788755391000002;53617;26809;53618;267105;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58041-c0003-e006259-u.json
+governador;47;Bom Jesus do Itabapoana;DOUGLAS RUAS;23.796576031999997;4726;2364;4727;22576;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58114-c0003-e006259-u.json
+governador;48;Bom Jardim;DOUGLAS RUAS;25.083255628000003;3766;1884;3767;17795;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58092-c0003-e006259-u.json
+governador;49;Itaboraí;DOUGLAS RUAS;25.683219463;30825;15413;30826;137526;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58378-c0003-e006259-u.json
+governador;50;São Gonçalo;DOUGLAS RUAS;26.028848597;114731;57366;114732;499722;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58971-c0003-e006259-u.json
+governador;51;Guapimirim;DOUGLAS RUAS;26.452461963000005;8241;4121;8242;35197;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58106-c0003-e006259-u.json
+governador;52;Paraty;DOUGLAS RUAS;27.533436752999997;6567;3284;6568;26972;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58750-c0003-e006259-u.json
+governador;53;Carapebus;DOUGLAS RUAS;27.746665308999994;2725;1363;2726;10972;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58300-c0003-e006259-u.json
+governador;54;Armação dos Búzios;DOUGLAS RUAS;28.333463981;7229;3615;7230;28169;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58408-c0003-e006259-u.json
+governador;55;Mangaratiba;DOUGLAS RUAS;28.343876724000005;8737;4369;8738;34080;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58513-c0003-e006259-u.json
+governador;56;Resende;DOUGLAS RUAS;28.424683324999997;18872;9437;18873;75534;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58831-c0003-e006259-u.json
+governador;57;Rio das Ostras;DOUGLAS RUAS;29.188566784000002;21547;10774;21548;82728;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58203-c0003-e006259-u.json
+governador;58;Silva Jardim;DOUGLAS RUAS;29.778717619;3943;1972;3944;14909;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59110-c0003-e006259-u.json
+governador;59;Cachoeiras de Macacu;DOUGLAS RUAS;30.283312577999997;9727;4864;9728;36497;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58157-c0003-e006259-u.json
+governador;60;Tanguá;DOUGLAS RUAS;30.307076101;5675;2838;5676;21225;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58360-c0003-e006259-u.json
+governador;61;Angra dos Reis;DOUGLAS RUAS;31.689428427000003;28819;14410;28820;105144;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58017-c0003-e006259-u.json
+governador;62;Teresópolis;DOUGLAS RUAS;32.20857159;28445;14223;28446;103188;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59153-c0003-e006259-u.json
+governador;63;Rio Bonito;DOUGLAS RUAS;32.502011263;10504;5253;10505;36334;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58858-c0003-e006259-u.json
+governador;64;Iguaba Grande;DOUGLAS RUAS;32.515692472;7304;3653;7305;24735;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58262-c0003-e006259-u.json
+governador;65;São Fidélis;DOUGLAS RUAS;32.864438254999996;7079;3540;7080;23697;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58955-c0003-e006259-u.json
+governador;66;Varre-Sai;DOUGLAS RUAS;33.016081392000004;2012;1007;2013;7061;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58084-c0003-e006259-u.json
+governador;67;Itaocara;DOUGLAS RUAS;33.814611608;4684;2343;4685;15625;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58416-c0003-e006259-u.json
+governador;68;Cabo Frio;DOUGLAS RUAS;34.496023161;42417;21209;42418;136878;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58130-c0003-e006259-u.json
+governador;69;Sumidouro;DOUGLAS RUAS;35.291858679;3676;1839;3677;11828;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59137-c0003-e006259-u.json
+governador;70;Aperibé;DOUGLAS RUAS;36.006480357;2667;1334;2668;8277;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58181-c0003-e006259-u.json
+governador;71;Itaperuna;DOUGLAS RUAS;36.51789999100001;19024;9513;19025;58153;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58432-c0003-e006259-u.json
+governador;72;Paty do Alferes;DOUGLAS RUAS;36.781542732000005;6361;3181;6362;19033;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59315-c0003-e006259-u.json
+governador;73;São José de Ubá;DOUGLAS RUAS;38.488034807999995;2123;1062;2124;6085;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58343-c0003-e006259-u.json
+governador;74;Araruama;DOUGLAS RUAS;38.918333092;29446;14724;29447;85926;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58033-c0003-e006259-u.json
+governador;75;Saquarema;DOUGLAS RUAS;39.228270714000004;25121;12561;25122;71980;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59099-c0003-e006259-u.json
+governador;76;Casimiro de Abreu;DOUGLAS RUAS;40.65912010199999;10129;5065;10130;27742;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj58254-c0003-e006259-u.json
+governador;77;Italva;DOUGLAS RUAS;41.118102613;3398;1700;3399;9165;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59293-c0003-e006259-u.json
+governador;78;São Pedro da Aldeia;DOUGLAS RUAS;44.801080690999996;23547;11774;23548;58500;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59030-c0003-e006259-u.json
+governador;79;São José do Vale do Rio Preto;DOUGLAS RUAS;45.799011532;5282;2642;5283;12969;https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj59331-c0003-e006259-u.json
+presidente;1;Três Rios;FLAVIO BOLSONARO;0.8357926019999979;388;195;389;48890;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59196-c0001-e006257-u.json
+presidente;2;Rio Claro;FLAVIO BOLSONARO;1.3726175899999973;157;79;158;11979;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58874-c0001-e006257-u.json
+presidente;3;Rio de Janeiro;FLAVIO BOLSONARO;3.9701037530000036;137837;68919;137838;3658898;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj60011-c0001-e006257-u.json
+presidente;4;Carmo;FLAVIO BOLSONARO;4.86678508;548;275;549;11760;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58238-c0001-e006257-u.json
+presidente;5;Mendes;FLAVIO BOLSONARO;4.976575621000002;563;282;564;11878;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58556-c0001-e006257-u.json
+presidente;6;Barra do Piraí;FLAVIO BOLSONARO;5.074159264000002;2559;1280;2560;52804;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58050-c0001-e006257-u.json
+presidente;7;Trajano de Moraes;FLAVIO BOLSONARO;6.1744022509999965;439;220;440;7465;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59170-c0001-e006257-u.json
+presidente;8;Santa Maria Madalena;FLAVIO BOLSONARO;6.492526046000002;430;216;431;7002;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58912-c0001-e006257-u.json
+presidente;9;Piraí;FLAVIO BOLSONARO;6.573386637000006;1151;576;1152;18342;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58793-c0001-e006257-u.json
+presidente;10;Maricá;FLAVIO BOLSONARO;6.639831790000002;9221;4611;9222;144516;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58530-c0001-e006257-u.json
+presidente;11;Cambuci;FLAVIO BOLSONARO;7.099792100000002;683;342;684;9936;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58173-c0001-e006257-u.json
+presidente;12;Macuco;FLAVIO BOLSONARO;7.6062639820000015;442;222;443;6062;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58386-c0001-e006257-u.json
+presidente;13;Volta Redonda;FLAVIO BOLSONARO;8.003855526999999;13203;6602;13204;172409;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59250-c0001-e006257-u.json
+presidente;14;Vassouras;FLAVIO BOLSONARO;8.112014453;1796;899;1797;23203;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59234-c0001-e006257-u.json
+presidente;15;Quatis;FLAVIO BOLSONARO;8.471148125999996;712;357;713;8746;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58025-c0001-e006257-u.json
+presidente;16;Duas Barras;FLAVIO BOLSONARO;8.578745198;670;336;671;8229;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58319-c0001-e006257-u.json
+presidente;17;Natividade;FLAVIO BOLSONARO;8.592817618999995;792;397;793;9709;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58610-c0001-e006257-u.json
+presidente;18;Engenheiro Paulo de Frontin;FLAVIO BOLSONARO;9.644842846000003;850;426;851;9203;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58351-c0001-e006257-u.json
+presidente;19;Quissamã;FLAVIO BOLSONARO;10.512501725999996;1522;762;1523;15070;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58009-c0001-e006257-u.json
+presidente;20;Macaé;FLAVIO BOLSONARO;11.684755046;16128;8065;16129;144452;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58475-c0001-e006257-u.json
+presidente;21;São Gonçalo;FLAVIO BOLSONARO;11.963347239999997;56545;28273;56546;499941;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58971-c0001-e006257-u.json
+presidente;22;Barra Mansa;FLAVIO BOLSONARO;12.556008962;12554;6278;12555;105213;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58076-c0001-e006257-u.json
+presidente;23;Paraíba do Sul;FLAVIO BOLSONARO;13.462219947000001;3419;1710;3420;26694;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58734-c0001-e006257-u.json
+presidente;24;Cantagalo;FLAVIO BOLSONARO;13.607785720999999;1580;791;1581;12210;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58211-c0001-e006257-u.json
+presidente;25;Cordeiro;FLAVIO BOLSONARO;14.127937142999997;1906;954;1907;14174;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58297-c0001-e006257-u.json
+presidente;26;Paracambi;FLAVIO BOLSONARO;15.109486150000002;3802;1902;3803;26463;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58718-c0001-e006257-u.json
+presidente;27;Japeri;FLAVIO BOLSONARO;15.197391610000004;8623;4312;8624;59933;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58149-c0001-e006257-u.json
+presidente;28;Itaboraí;FLAVIO BOLSONARO;16.90605961;22116;11059;22117;137637;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58378-c0001-e006257-u.json
+presidente;29;Queimados;FLAVIO BOLSONARO;18.259661835000003;15119;7560;15120;86949;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58122-c0001-e006257-u.json
+presidente;30;Bom Jesus do Itabapoana;FLAVIO BOLSONARO;18.404879839000003;4013;2007;4014;22578;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58114-c0001-e006257-u.json
+presidente;31;Duque de Caxias;FLAVIO BOLSONARO;18.55015607;91164;45583;91165;520622;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58335-c0001-e006257-u.json
+presidente;32;São Sebastião do Alto;FLAVIO BOLSONARO;18.650585562000003;1067;534;1068;6027;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59056-c0001-e006257-u.json
+presidente;33;Sapucaia;FLAVIO BOLSONARO;19.288031272999994;2319;1160;2320;12569;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59072-c0001-e006257-u.json
+presidente;34;Tanguá;FLAVIO BOLSONARO;19.565431127000004;3980;1991;3981;21225;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58360-c0001-e006257-u.json
+presidente;35;Nilópolis;FLAVIO BOLSONARO;19.605474201999996;18824;9413;18825;100545;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58637-c0001-e006257-u.json
+presidente;36;São João de Meriti;FLAVIO BOLSONARO;19.729695592000006;51546;25774;51547;276761;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59013-c0001-e006257-u.json
+presidente;37;Itatiaia;FLAVIO BOLSONARO;20.464513556;4106;2054;4107;20766;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58440-c0001-e006257-u.json
+presidente;38;Miguel Pereira;FLAVIO BOLSONARO;20.712815513000002;3824;1913;3825;19231;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58572-c0001-e006257-u.json
+presidente;39;Belford Roxo;FLAVIO BOLSONARO;20.932551853;52893;26447;52894;267145;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58041-c0001-e006257-u.json
+presidente;40;Carapebus;FLAVIO BOLSONARO;21.040702615999997;2228;1115;2229;10972;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58300-c0001-e006257-u.json
+presidente;41;Nova Friburgo;FLAVIO BOLSONARO;21.213056359;24059;12030;24060;120112;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58670-c0001-e006257-u.json
+presidente;42;Porto Real;FLAVIO BOLSONARO;21.718728113000004;3101;1551;3102;14828;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58327-c0001-e006257-u.json
+presidente;43;Bom Jardim;FLAVIO BOLSONARO;21.776401952999997;3658;1830;3659;17795;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58092-c0001-e006257-u.json
+presidente;44;Petrópolis;FLAVIO BOLSONARO;22.291514745;38211;19106;38212;181654;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58777-c0001-e006257-u.json
+presidente;45;Mesquita;FLAVIO BOLSONARO;22.356325803000004;22691;11346;22692;106290;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58467-c0001-e006257-u.json
+presidente;46;Magé;FLAVIO BOLSONARO;22.81271175;33667;16834;33668;155240;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58491-c0001-e006257-u.json
+presidente;47;Seropédica;FLAVIO BOLSONARO;23.860447646000004;10799;5400;10800;47439;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58424-c0001-e006257-u.json
+presidente;48;Areal;FLAVIO BOLSONARO;24.123422160000004;1892;947;1893;8231;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58220-c0001-e006257-u.json
+presidente;49;Guapimirim;FLAVIO BOLSONARO;24.336728651;8219;4110;8220;35197;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58106-c0001-e006257-u.json
+presidente;50;Cachoeiras de Macacu;FLAVIO BOLSONARO;25.448080067;8874;4438;8875;36497;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58157-c0001-e006257-u.json
+presidente;51;Campos dos Goytacazes;FLAVIO BOLSONARO;25.629399921;69754;34878;69755;290458;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58190-c0001-e006257-u.json
+presidente;52;Nova Iguaçu;FLAVIO BOLSONARO;25.768204855;115926;57964;115927;477139;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58696-c0001-e006257-u.json
+presidente;53;Santo Antônio de Pádua;FLAVIO BOLSONARO;26.238405768;6478;3240;6479;25788;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58939-c0001-e006257-u.json
+presidente;54;Itaguaí;FLAVIO BOLSONARO;26.882791031000004;20250;10126;20251;78836;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58394-c0001-e006257-u.json
+presidente;55;Paraty;FLAVIO BOLSONARO;27.419788665;7136;3569;7137;26975;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58750-c0001-e006257-u.json
+presidente;56;Arraial do Cabo;FLAVIO BOLSONARO;27.641384529;7307;3654;7308;27352;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59277-c0001-e006257-u.json
+presidente;57;São João da Barra;FLAVIO BOLSONARO;27.664990000000003;9130;4566;9131;34890;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58998-c0001-e006257-u.json
+presidente;58;Aperibé;FLAVIO BOLSONARO;28.487205218;2271;1136;2272;8277;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58181-c0001-e006257-u.json
+presidente;59;Resende;FLAVIO BOLSONARO;28.625980602;20690;10346;20691;75536;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58831-c0001-e006257-u.json
+presidente;60;Rio das Ostras;FLAVIO BOLSONARO;28.754466245;22936;11469;22937;82940;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58203-c0001-e006257-u.json
+presidente;61;Mangaratiba;FLAVIO BOLSONARO;29.766241651;9805;4903;9806;34080;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58513-c0001-e006257-u.json
+presidente;62;Cardoso Moreira;FLAVIO BOLSONARO;30.354009702000003;2941;1471;2942;10038;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58068-c0001-e006257-u.json
+presidente;63;Angra dos Reis;FLAVIO BOLSONARO;30.633903909999997;30943;15472;30944;105351;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58017-c0001-e006257-u.json
+presidente;64;São Fidélis;FLAVIO BOLSONARO;30.781037582999996;7019;3510;7020;23697;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58955-c0001-e006257-u.json
+presidente;65;Rio Bonito;FLAVIO BOLSONARO;30.825361258;10730;5366;10731;36336;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58858-c0001-e006257-u.json
+presidente;66;São José de Ubá;FLAVIO BOLSONARO;31.005634284000003;1816;909;1817;6085;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58343-c0001-e006257-u.json
+presidente;67;Paty do Alferes;FLAVIO BOLSONARO;31.381365113999998;5793;2897;5794;19033;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59315-c0001-e006257-u.json
+presidente;68;Silva Jardim;FLAVIO BOLSONARO;31.388752714;4482;2242;4483;14909;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59110-c0001-e006257-u.json
+presidente;69;Varre-Sai;FLAVIO BOLSONARO;31.428147268000004;2117;1059;2118;7061;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58084-c0001-e006257-u.json
+presidente;70;Cabo Frio;FLAVIO BOLSONARO;32.786003304000005;43269;21635;43270;137352;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58130-c0001-e006257-u.json
+presidente;71;Armação dos Búzios;FLAVIO BOLSONARO;33.176031607;9069;4535;9070;28170;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58408-c0001-e006257-u.json
+presidente;72;Itaperuna;FLAVIO BOLSONARO;33.599303383000006;18907;9454;18908;58153;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58432-c0001-e006257-u.json
+presidente;73;Teresópolis;FLAVIO BOLSONARO;34.13246316199999;33472;16737;33473;103299;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59153-c0001-e006257-u.json
+presidente;74;Saquarema;FLAVIO BOLSONARO;34.79685929499999;23887;11944;23888;71981;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59099-c0001-e006257-u.json
+presidente;75;Sumidouro;FLAVIO BOLSONARO;35.396126761;4021;2011;4022;11828;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59137-c0001-e006257-u.json
+presidente;76;Araruama;FLAVIO BOLSONARO;36.45388517799999;29964;14983;29965;86031;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58033-c0001-e006257-u.json
+presidente;77;Itaocara;FLAVIO BOLSONARO;36.492732266000004;5448;2725;5449;15625;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58416-c0001-e006257-u.json
+presidente;78;Iguaba Grande;FLAVIO BOLSONARO;36.627152012;8744;4373;8745;24735;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58262-c0001-e006257-u.json
+presidente;79;Casimiro de Abreu;FLAVIO BOLSONARO;37.420584498;10013;5007;10014;27742;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58254-c0001-e006257-u.json
+presidente;80;São Francisco de Itabapoana;FLAVIO BOLSONARO;38.425141243;10882;5442;10883;29553;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj58289-c0001-e006257-u.json
+presidente;81;Italva;FLAVIO BOLSONARO;39.335367922;3480;1741;3481;9165;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59293-c0001-e006257-u.json
+presidente;82;São Pedro da Aldeia;FLAVIO BOLSONARO;42.426018686000006;23885;11943;23886;58503;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59030-c0001-e006257-u.json
+presidente;83;São José do Vale do Rio Preto;FLAVIO BOLSONARO;55.50643086800001;6905;3453;6906;12969;https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj59331-c0001-e006257-u.json
