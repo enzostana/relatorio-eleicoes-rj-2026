@@ -1,0 +1,279 @@
+{
+  "consulta": "2026-10-07",
+  "turno": 1,
+  "eleicao": "2026-10-04",
+  "totais": {
+    "governador": {
+      "eleitorado": 12842517,
+      "comparecimento": 9845867,
+      "abstencoes": 2996650,
+      "brancos": 501537,
+      "nulos": 675292,
+      "validos": 8394627,
+      "base_percentual": 8669038,
+      "subjudice": 274411,
+      "candidatos": [
+        {
+          "chave": "paes",
+          "nome": "Eduardo Paes",
+          "votos": 3706984
+        },
+        {
+          "chave": "douglas",
+          "nome": "Douglas Ruas",
+          "votos": 4271199
+        }
+      ],
+      "outros": 690855
+    },
+    "presidente": {
+      "eleitorado": 12857648,
+      "comparecimento": 9859802,
+      "abstencoes": 2997846,
+      "brancos": 201979,
+      "nulos": 288123,
+      "validos": 9369700,
+      "base_percentual": 9369700,
+      "subjudice": 0,
+      "candidatos": [
+        {
+          "chave": "lula",
+          "nome": "Lula",
+          "votos": 3693021
+        },
+        {
+          "chave": "flavio",
+          "nome": "Flávio Bolsonaro",
+          "votos": 4966844
+        }
+      ],
+      "outros": 709835
+    }
+  },
+  "historico": [
+    {
+      "ano": 2022,
+      "turno": 1,
+      "cargo": "governador",
+      "eleitorado": 12809126,
+      "comparecimento": 9893658,
+      "abstencoes": 2915468,
+      "brancos": 591576,
+      "nulos": 901120,
+      "fonte": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2022.zip",
+      "registros": 183,
+      "abstencao_pct": 22.76086596384484,
+      "brancos_pct": 5.9793455565171145,
+      "nulos_pct": 9.108056898671856
+    },
+    {
+      "ano": 2022,
+      "turno": 1,
+      "cargo": "presidente",
+      "eleitorado": 12826356,
+      "comparecimento": 9909463,
+      "abstencoes": 2916893,
+      "brancos": 159773,
+      "nulos": 293013,
+      "fonte": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2022.zip",
+      "registros": 183,
+      "abstencao_pct": 22.741400597332554,
+      "brancos_pct": 1.6123275297561532,
+      "nulos_pct": 2.9569008936205727
+    },
+    {
+      "ano": 2022,
+      "turno": 2,
+      "cargo": "presidente",
+      "eleitorado": 12827044,
+      "comparecimento": 9973822,
+      "abstencoes": 2853222,
+      "brancos": 126645,
+      "nulos": 287066,
+      "fonte": "https://cdn.tse.jus.br/estatistica/sead/odsele/detalhe_votacao_munzona/detalhe_votacao_munzona_2022.zip",
+      "registros": 183,
+      "abstencao_pct": 22.24379989653111,
+      "brancos_pct": 1.2697740144149354,
+      "nulos_pct": 2.878194537660688
+    },
+    {
+      "ano": 2026,
+      "turno": 1,
+      "cargo": "governador",
+      "eleitorado": 12842517,
+      "comparecimento": 9845867,
+      "abstencoes": 2996650,
+      "brancos": 501537,
+      "nulos": 675292,
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6259/dados/rj/rj-c0003-e006259-u.json",
+      "registros": 92,
+      "abstencao_pct": 23.333821555385132,
+      "brancos_pct": 5.093883555404516,
+      "nulos_pct": 6.858634186303756
+    },
+    {
+      "ano": 2026,
+      "turno": 1,
+      "cargo": "presidente",
+      "eleitorado": 12857648,
+      "comparecimento": 9859802,
+      "abstencoes": 2997846,
+      "brancos": 201979,
+      "nulos": 288123,
+      "fonte": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj-c0001-e006257-u.json",
+      "registros": 92,
+      "abstencao_pct": 23.31566395346956,
+      "brancos_pct": 2.048509696239336,
+      "nulos_pct": 2.922198640500083
+    }
+  ],
+  "auditoria": [
+    {
+      "cargo": "rj_presidente",
+      "candidato": "FLAVIO BOLSONARO",
+      "soma_municipios": 4966844,
+      "total_uf": 4966844,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_presidente",
+      "candidato": "RONALDO CAIADO",
+      "soma_municipios": 199844,
+      "total_uf": 199844,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_presidente",
+      "candidato": "LULA",
+      "soma_municipios": 3693021,
+      "total_uf": 3693021,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_presidente",
+      "candidato": "HERTZ DIAS",
+      "soma_municipios": 3999,
+      "total_uf": 3999,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_presidente",
+      "candidato": "EDMILSON COSTA",
+      "soma_municipios": 2854,
+      "total_uf": 2854,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_presidente",
+      "candidato": "CLARIANA BARAO",
+      "soma_municipios": 4082,
+      "total_uf": 4082,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_presidente",
+      "candidato": "ZEMA",
+      "soma_municipios": 21907,
+      "total_uf": 21907,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_presidente",
+      "candidato": "ESCRITOR AUGUSTO CURY",
+      "soma_municipios": 247397,
+      "total_uf": 247397,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_presidente",
+      "candidato": "VETERINÁRIO WILSON GRASSI",
+      "soma_municipios": 1930,
+      "total_uf": 1930,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_presidente",
+      "candidato": "SAMARA",
+      "soma_municipios": 14186,
+      "total_uf": 14186,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_presidente",
+      "candidato": "RENAN SANTOS",
+      "soma_municipios": 211843,
+      "total_uf": 211843,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_presidente",
+      "candidato": "RUI COSTA PIMENTA",
+      "soma_municipios": 1793,
+      "total_uf": 1793,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_governador",
+      "candidato": "DOUGLAS RUAS",
+      "soma_municipios": 4271199,
+      "total_uf": 4271199,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_governador",
+      "candidato": "ANDRÉ MARINHO",
+      "soma_municipios": 45359,
+      "total_uf": 45359,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_governador",
+      "candidato": "LUAN MONTEIRO",
+      "soma_municipios": 2777,
+      "total_uf": 2777,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_governador",
+      "candidato": "EDUARDO PAES",
+      "soma_municipios": 3706984,
+      "total_uf": 3706984,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_governador",
+      "candidato": "JULIETE",
+      "soma_municipios": 33430,
+      "total_uf": 33430,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_governador",
+      "candidato": "WILLIAM SIRI",
+      "soma_municipios": 235347,
+      "total_uf": 235347,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_governador",
+      "candidato": "GAROTINHO",
+      "soma_municipios": 274411,
+      "total_uf": 274411,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_governador",
+      "candidato": "CORONEL BUSNELLO",
+      "soma_municipios": 84889,
+      "total_uf": 84889,
+      "diferenca": 0
+    },
+    {
+      "cargo": "rj_governador",
+      "candidato": "CYRO GARCIA",
+      "soma_municipios": 14642,
+      "total_uf": 14642,
+      "diferenca": 0
+    }
+  ]
+}

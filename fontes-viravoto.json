@@ -1,0 +1,304 @@
+{
+  "consulta": "2026-10-07",
+  "escopo": "Observatório descritivo do RJ, com foco no confronto estadual de segundo turno",
+  "fontes": [
+    {
+      "arquivo": "plano_paes_oficial",
+      "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017138970",
+      "erro": "HTTPError"
+    },
+    {
+      "arquivo": "plano_ruas_oficial",
+      "url": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017018638",
+      "erro": "HTTPError"
+    },
+    {
+      "arquivo": "datafolha_agosto.html",
+      "url": "https://datafolha.folha.uol.com.br/eleicoes/2026/08/eduardo-paes-psd-lidera-com-41-das-intencoes-de-voto-douglas-ruas-pl-em-segundo-lugar-tem-19.shtml",
+      "sha256": "e69a2e39185aa13bfae18908bc56cdb209fb1907d92875856e5364dbd6828521",
+      "consulta": "2026-10-07"
+    },
+    {
+      "arquivo": "datafolha_setembro24.html",
+      "url": "https://datafolha.folha.uol.com.br/eleicoes/2026/09/eduardo-paes-psd-mantem-a-lideranca-com-43-das-intencoes-de-voto-douglas-ruas-pl-cresce-e-alcanca-30.shtml",
+      "sha256": "f70c38885894ee57d44a0a194427463253a2978b78038435b30fad96764e365f",
+      "consulta": "2026-10-07"
+    },
+    {
+      "arquivo": "presidente_estados.html",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-lidera-em-mg-e-flavio-no-rj-no-1o-turno-rivais-estao-empatados-em-sp.shtml",
+      "sha256": "7aee6d74b31efc128fa920620c993b9c00639cb22461fc80cd4056514819f7c3",
+      "consulta": "2026-10-07"
+    },
+    {
+      "arquivo": "rtbd_prioridades.pdf",
+      "url": "https://static.poder360.com.br/2026/03/RealBigData-Governo-Senado-RiodeJaneiro-BR-043672026-Mar26.pdf",
+      "sha256": "b6f1a9776781806c6ae52f9f3fcf886890102c3edb609ed8afce4f7a32c27791",
+      "consulta": "2026-10-07"
+    },
+    {
+      "arquivo": "plano_ruas_espelho.pdf",
+      "url": "https://nortiva.io/eleicoes/proposta/190002542887.pdf",
+      "sha256": "8e50ed1bb2ee5cfd935c2d3492eeb0b66a426b008e1ea2a88da83cd8a4b5ea58",
+      "consulta": "2026-10-07"
+    },
+    {
+      "arquivo": "datafolha_agosto_pdf.pdf",
+      "url": "https://media.folha.uol.com.br/datafolha/2026/08/24/jw-8lts35iuo-qsiqkpr0a.pdf",
+      "sha256": "2e16b881be5dd8f110236860b896849c35be813d5fdb760ab15fe310531c870e",
+      "consulta": "2026-10-07"
+    },
+    {
+      "arquivo": "datafolha_setembro24_pdf.pdf",
+      "url": "https://media.folha.uol.com.br/datafolha/2026/09/28/afqbuskg4t2hxpw6v-12xg.pdf",
+      "sha256": "22c5865d314953bab5f1aa8fc67031627fc810751738c58bc1dfe042c4bfece3",
+      "consulta": "2026-10-07"
+    }
+  ],
+  "publicacoes_pesquisas": [
+    {
+      "instituto": "Datafolha",
+      "campo_inicio": "2026-08-18",
+      "campo_fim": "2026-08-20",
+      "publicacao": "2026-08-24",
+      "amostra": 1204,
+      "margem_erro_pp": 3,
+      "confianca_pct": 95,
+      "municipios_amostrados": 35,
+      "metodo": "Presencial em pontos de fluxo",
+      "registro": "RJ-02945/2026",
+      "paes_total": 41,
+      "ruas_total": 19,
+      "paes_validos": 51,
+      "ruas_validos": 23,
+      "brancos_nulos": 16,
+      "indecisos_estimulada": 4,
+      "indecisos_espontanea": 52,
+      "decididos": null,
+      "podem_mudar": null,
+      "rejeicao_paes": 26,
+      "rejeicao_ruas": 19,
+      "segundo_paes": null,
+      "segundo_ruas": null,
+      "fonte": "https://datafolha.folha.uol.com.br/eleicoes/2026/08/eduardo-paes-psd-lidera-com-41-das-intencoes-de-voto-douglas-ruas-pl-em-segundo-lugar-tem-19.shtml",
+      "abrangencia": "Estado do Rio de Janeiro",
+      "turno": 1,
+      "cenario": "Com Garotinho",
+      "consulta": "2026-10-07",
+      "base_firmeza": "Entrevistados com intenção em candidato, branco ou nulo; não é o total da amostra.",
+      "base_rejeicao": "Pergunta de múltiplas respostas; percentuais não devem ser somados.",
+      "espontanea_paes": 21,
+      "espontanea_ruas": 8,
+      "segundo_brancos_nulos": null,
+      "segundo_indecisos": null
+    },
+    {
+      "instituto": "Datafolha",
+      "campo_inicio": "2026-09-08",
+      "campo_fim": "2026-09-10",
+      "publicacao": "2026-09-14",
+      "amostra": 1204,
+      "margem_erro_pp": 3,
+      "confianca_pct": 95,
+      "municipios_amostrados": 35,
+      "metodo": "Presencial em pontos de fluxo",
+      "registro": "RJ-09217/2026",
+      "paes_total": 43,
+      "ruas_total": 25,
+      "paes_validos": 49,
+      "ruas_validos": 28,
+      "brancos_nulos": 9,
+      "indecisos_estimulada": 3,
+      "indecisos_espontanea": 40,
+      "decididos": 63,
+      "podem_mudar": 37,
+      "rejeicao_paes": 28,
+      "rejeicao_ruas": 23,
+      "segundo_paes": 54,
+      "segundo_ruas": 34,
+      "fonte": "https://datafolha.folha.uol.com.br/eleicoes/2026/09/eduardo-paes-psd-mantem-a-lideranca-com-43-das-intencoes-de-voto-douglas-ruas-pl-cresce-e-tem-25.shtml",
+      "abrangencia": "Estado do Rio de Janeiro",
+      "turno": 1,
+      "cenario": "Com Garotinho",
+      "consulta": "2026-10-07",
+      "base_firmeza": "Entrevistados com intenção em candidato, branco ou nulo; não é o total da amostra.",
+      "base_rejeicao": "Pergunta de múltiplas respostas; percentuais não devem ser somados.",
+      "espontanea_paes": 29,
+      "espontanea_ruas": 13,
+      "segundo_brancos_nulos": 10,
+      "segundo_indecisos": 2
+    },
+    {
+      "instituto": "Datafolha",
+      "campo_inicio": "2026-09-22",
+      "campo_fim": "2026-09-24",
+      "publicacao": "2026-09-28",
+      "amostra": 1204,
+      "margem_erro_pp": 3,
+      "confianca_pct": 95,
+      "municipios_amostrados": 35,
+      "metodo": "Presencial em pontos de fluxo",
+      "registro": "RJ-02205/2026",
+      "paes_total": 43,
+      "ruas_total": 30,
+      "paes_validos": 48,
+      "ruas_validos": 33,
+      "brancos_nulos": 6,
+      "indecisos_estimulada": 4,
+      "indecisos_espontanea": 33,
+      "decididos": 70,
+      "podem_mudar": 29,
+      "rejeicao_paes": 25,
+      "rejeicao_ruas": 26,
+      "segundo_paes": 54,
+      "segundo_ruas": 38,
+      "fonte": "https://datafolha.folha.uol.com.br/eleicoes/2026/09/eduardo-paes-psd-mantem-a-lideranca-com-43-das-intencoes-de-voto-douglas-ruas-pl-cresce-e-alcanca-30.shtml",
+      "abrangencia": "Estado do Rio de Janeiro",
+      "turno": 1,
+      "cenario": "Com Garotinho",
+      "consulta": "2026-10-07",
+      "base_firmeza": "Entrevistados com intenção em candidato, branco ou nulo; não é o total da amostra.",
+      "base_rejeicao": "Pergunta de múltiplas respostas; percentuais não devem ser somados.",
+      "espontanea_paes": 29,
+      "espontanea_ruas": 20,
+      "segundo_brancos_nulos": 5,
+      "segundo_indecisos": 2
+    },
+    {
+      "instituto": "Datafolha",
+      "campo_inicio": "2026-09-29",
+      "campo_fim": "2026-10-01",
+      "publicacao": "2026-10-02",
+      "amostra": 1204,
+      "margem_erro_pp": 3,
+      "confianca_pct": 95,
+      "municipios_amostrados": 35,
+      "metodo": "Presencial em pontos de fluxo",
+      "registro": "RJ-02070/2026",
+      "paes_total": 42,
+      "ruas_total": 31,
+      "paes_validos": 47,
+      "ruas_validos": 35,
+      "brancos_nulos": 8,
+      "indecisos_estimulada": 4,
+      "indecisos_espontanea": 32,
+      "decididos": 73,
+      "podem_mudar": 27,
+      "rejeicao_paes": 26,
+      "rejeicao_ruas": 29,
+      "segundo_paes": 52,
+      "segundo_ruas": 38,
+      "fonte": "https://datafolha.folha.uol.com.br/eleicoes/2026/10/eduardo-paes-psd-mantem-a-lideranca-com-47-dos-votos-validos-douglas-ruas-pl-cresce-e-alcanca-35.shtml",
+      "abrangencia": "Estado do Rio de Janeiro",
+      "turno": 1,
+      "cenario": "Com Garotinho",
+      "consulta": "2026-10-07",
+      "base_firmeza": "Entrevistados com intenção em candidato, branco ou nulo; não é o total da amostra.",
+      "base_rejeicao": "Pergunta de múltiplas respostas; percentuais não devem ser somados.",
+      "espontanea_paes": 29,
+      "espontanea_ruas": 19,
+      "segundo_brancos_nulos": 7,
+      "segundo_indecisos": 2
+    },
+    {
+      "instituto": "Datafolha",
+      "campo_inicio": "2026-10-02",
+      "campo_fim": "2026-10-03",
+      "publicacao": "2026-10-04",
+      "amostra": 2002,
+      "margem_erro_pp": 2,
+      "confianca_pct": 95,
+      "municipios_amostrados": 35,
+      "metodo": "Presencial em pontos de fluxo",
+      "registro": "RJ-01334/2026",
+      "paes_total": 41,
+      "ruas_total": 34,
+      "paes_validos": 46,
+      "ruas_validos": 38,
+      "brancos_nulos": 6,
+      "indecisos_estimulada": 5,
+      "indecisos_espontanea": 28,
+      "decididos": 80,
+      "podem_mudar": 19,
+      "rejeicao_paes": null,
+      "rejeicao_ruas": null,
+      "segundo_paes": 50,
+      "segundo_ruas": 41,
+      "fonte": "https://datafolha.folha.uol.com.br/eleicoes/2026/10/na-vespera-da-eleicao-eduardo-paes-psd-tem-46-dos-votos-validos-douglas-ruas-pl-cresce-e-alcanca-38.shtml",
+      "abrangencia": "Estado do Rio de Janeiro",
+      "turno": 1,
+      "cenario": "Com Garotinho",
+      "consulta": "2026-10-07",
+      "base_firmeza": "Entrevistados com intenção em candidato, branco ou nulo; não é o total da amostra.",
+      "base_rejeicao": "Pergunta de múltiplas respostas; percentuais não devem ser somados.",
+      "espontanea_paes": 29,
+      "espontanea_ruas": 22,
+      "segundo_brancos_nulos": 6,
+      "segundo_indecisos": 3
+    }
+  ],
+  "programas": {
+    "paes": {
+      "nome": "Eduardo Paes",
+      "titulo": "Plano de reconstrução do Estado do Rio de Janeiro — versão preliminar",
+      "paginas": 8,
+      "oficial": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017138970",
+      "espelho": "https://rondoniadireto.com/wp-content/uploads/rd-eleicoes-2026/documents/government-plans/rj/190002543380.pdf",
+      "arquivo": "plano_paes_espelho.pdf",
+      "sha256": "6ba7ba399dcfeffe0688cf57e9048e0a02e4e7e6b1d199f08e07454c02e2830d"
+    },
+    "ruas": {
+      "nome": "Douglas Ruas",
+      "titulo": "Plano do Rio Real 2027–2030",
+      "paginas": 51,
+      "oficial": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017018638",
+      "espelho": "https://nortiva.io/eleicoes/proposta/190002542887.pdf",
+      "arquivo": "plano_ruas_espelho.pdf",
+      "sha256": "8e50ed1bb2ee5cfd935c2d3492eeb0b66a426b008e1ea2a88da83cd8a4b5ea58"
+    }
+  },
+  "observacoes": [
+    "As pesquisas disponíveis foram colhidas antes do primeiro turno.",
+    "Documentos de programas consultados em espelhos, pois o endpoint original recusou o acesso.",
+    "Arquivos dos institutos são referenciados, não redistribuídos.",
+    "Totais municipais não identificam escolhas conjuntas nem mudanças individuais."
+  ],
+  "artefatos": [
+    {
+      "arquivo": "conhecimento-candidatos.csv",
+      "sha256": "52f4a23a6d11676beb53e766a786c77cede4df7f73f6dbcad3a3782c174a4624"
+    },
+    {
+      "arquivo": "matriz-propostas.csv",
+      "sha256": "501463cf4e291d918d175be6c8ce7601dce9b5fbc675b8a4c17ad7b7ac55cb39"
+    },
+    {
+      "arquivo": "municipios_douglas_lula.csv",
+      "sha256": "2a44810e01384c8d41c2e5f3992a4cd1135e6547a688a7d38051abdc3941e538"
+    },
+    {
+      "arquivo": "municipios_lula.csv",
+      "sha256": "fd2e1fd4571e22ed0d7ed3509ebbcafcee6888e041c9714406d9e29ea237516d"
+    },
+    {
+      "arquivo": "participacao-historica.csv",
+      "sha256": "bbd2fb2761d6428ec5c8f9d938a8d8b5570df9834b32e6a6f22bb8dc8f0e87c6"
+    },
+    {
+      "arquivo": "pesquisas-estaduais.csv",
+      "sha256": "ba6865226bffea0189ad344545f43aef8bd3d7b91f6320badb9ec592e982b229"
+    },
+    {
+      "arquivo": "pesquisas-presidencia-rj.csv",
+      "sha256": "4a2b72d5405a18911ffbaa37e00b43f76a1fd6ce1d5e9f48ed9f0e30b526c91e"
+    },
+    {
+      "arquivo": "prioridades-estaduais.csv",
+      "sha256": "2a573702cb40b509f219c4b21c15399962b2c9b123a53d8b2112ed05e174be14"
+    },
+    {
+      "arquivo": "todos_municipios.csv",
+      "sha256": "d79768ab1bce840cdc4709ed47fce9270a2e8a86d5de7c199d215a00b13abb0b"
+    }
+  ]
+}

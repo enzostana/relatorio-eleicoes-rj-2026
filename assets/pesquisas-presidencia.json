@@ -1,0 +1,27 @@
+[
+  {
+    "instituto": "Datafolha",
+    "campo_inicio": "2026-09-29",
+    "campo_fim": "2026-10-01",
+    "publicacao": "2026-10-02",
+    "amostra": 1204,
+    "margem_erro_pp": 3,
+    "confianca_pct": 95,
+    "municipios_amostrados": 35,
+    "metodo": "Presencial",
+    "registro": "BR-01272/2026",
+    "registro_estadual": "RJ-02070/2026",
+    "lula_total": null,
+    "flavio_total": null,
+    "lula_validos": 40,
+    "flavio_validos": 48,
+    "segundo_lula": 42,
+    "segundo_flavio": 51,
+    "segundo_brancos_nulos": 6,
+    "segundo_indecisos": 1,
+    "fonte": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-lula-lidera-em-mg-e-flavio-no-rj-no-1o-turno-rivais-estao-empatados-em-sp.shtml",
+    "abrangencia": "Estado do Rio de Janeiro",
+    "turno": 1,
+    "consulta": "2026-10-07"
+  }
+]

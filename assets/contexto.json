@@ -1,0 +1,211 @@
+{
+  "prioridades": {
+    "instituto": "Real Time Big Data",
+    "campo_inicio": "2026-03-09",
+    "campo_fim": "2026-03-10",
+    "publicacao": "2026-03-11",
+    "amostra": 2000,
+    "margem_erro_pp": 2,
+    "confianca_pct": 95,
+    "registro": "RJ-04191/2026",
+    "pagina": 40,
+    "fonte": "https://static.poder360.com.br/2026/03/RealBigData-Governo-Senado-RiodeJaneiro-BR-043672026-Mar26.pdf",
+    "pergunta": "Área que deveria ter prioridade no próximo governo estadual",
+    "abrangencia": "Estado do Rio de Janeiro",
+    "nota": "Levantamento de março; não representa prioridades medidas após o primeiro turno.",
+    "valores": [
+      {
+        "tema": "Segurança pública",
+        "pct": 38
+      },
+      {
+        "tema": "Saúde",
+        "pct": 21
+      },
+      {
+        "tema": "Transporte",
+        "pct": 13
+      },
+      {
+        "tema": "Economia",
+        "pct": 8
+      },
+      {
+        "tema": "Geração de emprego",
+        "pct": 7
+      },
+      {
+        "tema": "Educação",
+        "pct": 6
+      },
+      {
+        "tema": "Infraestrutura",
+        "pct": 5
+      },
+      {
+        "tema": "Não sabe / não respondeu",
+        "pct": 2
+      }
+    ]
+  },
+  "conhecimento": {
+    "instituto": "Real Time Big Data",
+    "campo_inicio": "2026-03-09",
+    "campo_fim": "2026-03-10",
+    "registro": "RJ-04191/2026",
+    "amostra": 2000,
+    "margem_erro_pp": 2,
+    "fonte": "https://static.poder360.com.br/2026/03/RealBigData-Governo-Senado-RiodeJaneiro-BR-043672026-Mar26.pdf",
+    "pergunta": "Possibilidade declarada de votar em cada candidato",
+    "nota": "Pergunta diferente da rejeição do Datafolha. Dados de março, anteriores à campanha oficial.",
+    "categorias": [
+      "Escolha certa",
+      "Uma possibilidade",
+      "Conhece e não votaria",
+      "Conhecimento insuficiente"
+    ],
+    "paes": [
+      16,
+      35,
+      44,
+      5
+    ],
+    "ruas": [
+      4,
+      32,
+      24,
+      40
+    ],
+    "paginas": [
+      32,
+      33
+    ]
+  },
+  "programas": {
+    "paes": {
+      "nome": "Eduardo Paes",
+      "titulo": "Plano de reconstrução do Estado do Rio de Janeiro — versão preliminar",
+      "paginas": 8,
+      "oficial": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017138970",
+      "espelho": "https://rondoniadireto.com/wp-content/uploads/rd-eleicoes-2026/documents/government-plans/rj/190002543380.pdf",
+      "arquivo": "plano_paes_espelho.pdf",
+      "sha256": "6ba7ba399dcfeffe0688cf57e9048e0a02e4e7e6b1d199f08e07454c02e2830d"
+    },
+    "ruas": {
+      "nome": "Douglas Ruas",
+      "titulo": "Plano do Rio Real 2027–2030",
+      "paginas": 51,
+      "oficial": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/190017018638",
+      "espelho": "https://nortiva.io/eleicoes/proposta/190002542887.pdf",
+      "arquivo": "plano_ruas_espelho.pdf",
+      "sha256": "8e50ed1bb2ee5cfd935c2d3492eeb0b66a426b008e1ea2a88da83cd8a4b5ea58"
+    }
+  },
+  "propostas": [
+    {
+      "tema": "Segurança",
+      "paes": "Patrulhamento territorial, fortalecimento da investigação financeira e seleção técnica de comandos policiais.",
+      "paes_paginas": "4, 6",
+      "ruas": "Integração de inteligência, barreiras tecnológicas, investigação patrimonial e presença policial permanente.",
+      "ruas_paginas": "7–11",
+      "paes_prazo": "Redução significativa da violência no primeiro ano; sem taxa numérica no trecho.",
+      "ruas_prazo": "Sem data específica nos trechos comparados.",
+      "paes_documento": "https://rondoniadireto.com/wp-content/uploads/rd-eleicoes-2026/documents/government-plans/rj/190002543380.pdf",
+      "ruas_documento": "https://nortiva.io/eleicoes/proposta/190002542887.pdf",
+      "nota": "Síntese dos trechos indicados; não é avaliação de viabilidade ou de qualidade. Ausência no trecho não significa ausência em todo o programa."
+    },
+    {
+      "tema": "Saúde",
+      "paes": "Recuperação de hospitais e UPAs, contratação de especialistas e repasses à atenção primária municipal.",
+      "paes_paginas": "4, 6",
+      "ruas": "Centros regionais de exames, mutirões cirúrgicos, regulação digital e apoio a hospitais do interior.",
+      "ruas_paginas": "18–19",
+      "paes_prazo": "Sem data específica nos trechos comparados.",
+      "ruas_prazo": "Sem data específica nos trechos comparados.",
+      "paes_documento": "https://rondoniadireto.com/wp-content/uploads/rd-eleicoes-2026/documents/government-plans/rj/190002543380.pdf",
+      "ruas_documento": "https://nortiva.io/eleicoes/proposta/190002542887.pdf",
+      "nota": "Síntese dos trechos indicados; não é avaliação de viabilidade ou de qualidade. Ausência no trecho não significa ausência em todo o programa."
+    },
+    {
+      "tema": "Educação",
+      "paes": "Ampliação do ensino técnico integral, recuperação da Faetec e apoio à educação inclusiva.",
+      "paes_paginas": "4, 6",
+      "ruas": "Reforço de aprendizagem, gestão por desempenho, prevenção da evasão e escolas cívico-militares.",
+      "ruas_paginas": "23–24",
+      "paes_prazo": "Sem data específica nos trechos comparados.",
+      "ruas_prazo": "Sem data específica nos trechos comparados.",
+      "paes_documento": "https://rondoniadireto.com/wp-content/uploads/rd-eleicoes-2026/documents/government-plans/rj/190002543380.pdf",
+      "ruas_documento": "https://nortiva.io/eleicoes/proposta/190002542887.pdf",
+      "nota": "Síntese dos trechos indicados; não é avaliação de viabilidade ou de qualidade. Ausência no trecho não significa ausência em todo o programa."
+    },
+    {
+      "tema": "Mobilidade",
+      "paes": "Expansão do BRT, melhoria dos trens e ônibus intermunicipais e início das obras da Linha 3.",
+      "paes_paginas": "4, 7",
+      "ruas": "Corredores viários, integração tarifária, preparação da Linha 3 e fiscalização das concessões de transporte.",
+      "ruas_paginas": "43–46",
+      "paes_prazo": "Iniciar obras da Linha 3 até o fim do mandato.",
+      "ruas_prazo": "Captação de recursos para a Linha 3; sem data específica no trecho.",
+      "paes_documento": "https://rondoniadireto.com/wp-content/uploads/rd-eleicoes-2026/documents/government-plans/rj/190002543380.pdf",
+      "ruas_documento": "https://nortiva.io/eleicoes/proposta/190002542887.pdf",
+      "nota": "Síntese dos trechos indicados; não é avaliação de viabilidade ou de qualidade. Ausência no trecho não significa ausência em todo o programa."
+    },
+    {
+      "tema": "Emprego e renda",
+      "paes": "Atração de investimentos e qualificação profissional, com atenção a petróleo, turismo, indústria e agricultura.",
+      "paes_paginas": "5, 7",
+      "ruas": "Pactos de desenvolvimento, infraestrutura produtiva, qualificação e instrumentos de incentivo industrial.",
+      "ruas_paginas": "30–32",
+      "paes_prazo": "Sem data específica nos trechos comparados.",
+      "ruas_prazo": "Sem data específica nos trechos comparados.",
+      "paes_documento": "https://rondoniadireto.com/wp-content/uploads/rd-eleicoes-2026/documents/government-plans/rj/190002543380.pdf",
+      "ruas_documento": "https://nortiva.io/eleicoes/proposta/190002542887.pdf",
+      "nota": "Síntese dos trechos indicados; não é avaliação de viabilidade ou de qualidade. Ausência no trecho não significa ausência em todo o programa."
+    },
+    {
+      "tema": "Saneamento e drenagem",
+      "paes": "Plano de prevenção de enchentes e deslizamentos; sem compromisso específico sobre esgoto nos trechos comparados.",
+      "paes_paginas": "7",
+      "ruas": "Fiscalização de metas das concessões de saneamento, expansão de esgoto e apoio a projetos de drenagem.",
+      "ruas_paginas": "41, 46",
+      "paes_prazo": "Sem data específica no trecho comparado.",
+      "ruas_prazo": "Metas contratuais; sem cronograma numérico reproduzido.",
+      "paes_documento": "https://rondoniadireto.com/wp-content/uploads/rd-eleicoes-2026/documents/government-plans/rj/190002543380.pdf",
+      "ruas_documento": "https://nortiva.io/eleicoes/proposta/190002542887.pdf",
+      "nota": "Síntese dos trechos indicados; não é avaliação de viabilidade ou de qualidade. Ausência no trecho não significa ausência em todo o programa."
+    }
+  ],
+  "consulta": "2026-10-07",
+  "lacunas": [
+    {
+      "titulo": "Prioridades após o primeiro turno",
+      "estado": "Não medido",
+      "descricao": "A medição disponível é de março. Uma nova pesquisa estadual precisaria repetir a pergunta e documentar a amostra."
+    },
+    {
+      "titulo": "Mudança individual de preferência",
+      "estado": "Sem painel longitudinal",
+      "descricao": "Pesquisas independentes não reentrevistam necessariamente as mesmas pessoas. Não identificam quem mudou de voto."
+    },
+    {
+      "titulo": "Avaliação atual dos dois candidatos",
+      "estado": "Não disponível nesta base",
+      "descricao": "Há rejeição pré-eleitoral e uma pergunta de conhecimento de março. Falta uma avaliação recente, com a mesma escala para ambos."
+    },
+    {
+      "titulo": "Probabilidade de um resultado futuro",
+      "estado": "Não estimada",
+      "descricao": "O simulador usa hipóteses escolhidas pelo leitor. Sem modelo calibrado e dados posteriores, não há probabilidade calculada."
+    },
+    {
+      "titulo": "Custos e execução das propostas",
+      "estado": "Comparação documental",
+      "descricao": "Os resumos citam trechos dos programas. Orçamento, cronograma e compatibilidade fiscal exigem documentos adicionais."
+    },
+    {
+      "titulo": "Escolhas conjuntas de uma pessoa",
+      "estado": "Não identificáveis na urna",
+      "descricao": "Ruas + Lula é uma coincidência territorial. Os totais não vinculam os dois votos de um indivíduo."
+    }
+  ]
+}

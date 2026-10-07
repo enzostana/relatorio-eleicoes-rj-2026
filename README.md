@@ -1,24 +1,20 @@
-# RJ 2026 — O mapa do voto
+# Vira Voto
 
-Dashboard público: https://enzostana.github.io/relatorio-eleicoes-rj-2026/
+Observatório público de resultados eleitorais do Rio de Janeiro, com foco no confronto estadual de segundo turno.
 
-Análise dos 92 municípios no primeiro turno, com foco na coincidência de lideranças Douglas Ruas + Lula em Pinheiral e nas margens mais próximas.
+Site: https://viravoto.enzostana.space/
 
-Dados oficiais do TSE consultados em 7 de outubro de 2026. A fotografia é preservada, com fontes municipais, metodologia, auditoria e downloads.
+Paleta: azul, verde, amarelo e vermelho. Marca própria, sem logos de partidos.
 
-## Frontend
+## Dados
 
-Site estático em HTML, CSS e JavaScript, publicado pelo GitHub Pages na raiz da branch `main`. Para visualizar localmente, execute `python3 -m http.server 8765` e abra `http://localhost:8765`.
+- `assets/data.json` e `todos_municipios.csv`: 92 municípios.
+- `pesquisas-estaduais.csv`: cinco rodadas, quatro com confronto hipotético de segundo turno.
+- `pesquisas-presidencia-rj.csv`: informação complementar do RJ.
+- `participacao-historica.csv`: 2022 e 2026.
+- `prioridades-estaduais.csv` e `conhecimento-candidatos.csv`: coleta de março.
+- `matriz-propostas.csv`: seis temas, fontes e páginas.
+- `viravoto-dados.xlsx` e `viravoto-dados.zip`: bases consolidadas.
+- `fontes-viravoto.json`, `metodo-viravoto.md` e `roteiro-pesquisa.md`: documentação.
 
-- `assets/data.json`: resultados e fontes dos 92 municípios.
-- `assets/map.svg`: limites municipais do IBGE com os códigos de junção.
-- `assets/app.js`: filtros, mapa, gráfico de margens e cálculos de proximidade.
-- `proximidade_virada.csv`: 162 registros de proximidade, com fontes.
-- `analise-proximidade.md`: argumentos, fórmulas e interpretação dos destaques.
-- `analise_rj_2026.xlsx`: base completa e aba de proximidade.
-- `analise_rj_2026.zip`: relatório, dados brutos, scripts originais e complemento.
-- `relatorio-completo.html`: versão original integral para leitura.
-
-## Limites
-
-A proximidade é aritmética, mantendo a base congelada. Não foi estimada probabilidade de virada. O ranking padrão mede margem percentual; a alternativa mede o mínimo de trocas diretas. A coincidência de líderes no município não identifica escolhas conjuntas de um mesmo eleitor.
+As pesquisas disponíveis antecedem o primeiro turno. Nenhum ranking de persuasão, probabilidade de vitória ou transferência individual é calculado. Veja o método para os denominadores e limitações.
